@@ -9,10 +9,11 @@ Database creation with normalized relational tables.
 Insertions of over 10,000 sales records.
 Comprehensive data analysis using SQL queries.
 Advanced business insights including customer segmentation, sales forecasting, and product performance.
-Database Schema
+
+**Database Schema**
 The database is structured into several relational tables:
 
-Customer: Contains customer demographic details.
+Customer:Contains customer demographic details.
 Product: Includes Coca-Cola's product information.
 Region: Holds geographic region details.
 Salesperson: Information on sales representatives.
