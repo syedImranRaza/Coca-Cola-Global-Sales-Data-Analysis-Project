@@ -18,3 +18,11 @@ Product: Includes Coca-Cola's product information.
 Region: Holds geographic region details.
 Salesperson: Information on sales representatives.
 Sales: Fact table capturing sales transactions, linking products, customers, salespersons, and regions.
+
+# Dataset
+**Sample Data Overview**
+Customers: Customer demographics, including gender and age group, enable segmentation analysis.
+Products: Coca-Cola product details such as SKU, category, and pricing.
+Regions: Geographic regions where sales occurred, including continent and country details.
+Sales: Sales transactions, recording date, revenue, quantity sold, and other key metrics.
+Salesperson: Data on Coca-Cola’s sales force responsible for driving sales in different regions.
